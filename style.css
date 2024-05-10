@@ -322,6 +322,9 @@ section {
 #experience {
   position: relative;
 }
+#Skills {
+  position: relative;
+}
 
 .experience-sub-title {
   color: rgb(85, 85, 85);
