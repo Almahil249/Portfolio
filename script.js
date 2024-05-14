@@ -32,8 +32,3 @@ buttons.forEach((button) => {
 });
 
 updateCarousel();
-
-
-import { injectSpeedInsights } from '@vercel/speed-insights';
- 
-injectSpeedInsights();
